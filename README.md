@@ -1,4 +1,4 @@
-screeps4vim
+screeps.vim
 ===========
 
 This is a small extension of the standard vim syntax file for javascript so that
